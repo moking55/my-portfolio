@@ -7,6 +7,10 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
-    }
+    },
+    "preserveValueImports": false,
+    "importsNotUsedAsValues": "preserve",
+    "ignoreDeprecations": "5.0",
+    "verbatimModuleSyntax": false,
   }
 }

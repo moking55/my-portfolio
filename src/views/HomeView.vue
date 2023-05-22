@@ -75,7 +75,7 @@ import buttonPacks from "@/components/buttonPacks.vue";
 import projectCards from "@/components/projectCards.vue";
 
 import projectMcMart from "@/assets/McMart.jpeg";
-import projectClassX from "@/assets/classX.png";
+import projectClassX from "@/assets/classx.png";
 import projectLannawords from "@/assets/lannaword.png";
 
 export default {
